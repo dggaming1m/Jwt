@@ -11,7 +11,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 from github import Github, GithubException
 
 # Configuration
-TELEGRAM_TOKEN = "7491481953:AAHKQo40l8o8EgxBOTZZhhAMbqrQe-641R8"
+TELEGRAM_TOKEN = "7491481953:AAGAVTze-of67v4ZtafgVeBy5WlYEpKZG4M"
 TOKEN_API = "http://jwt-3.vercel.app/token?uid={uid}&password={password}"
 AUTO_UPDATE_INTERVAL = 1 * 60 * 60  # 6 hours in seconds
 
